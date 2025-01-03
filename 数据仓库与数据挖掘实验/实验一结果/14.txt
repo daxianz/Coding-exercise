@@ -1,0 +1,75 @@
+           买家实际支付金额 收货人姓名            宝贝标题
+买家会员名                                                 
+mrhy1                  41.86     周某某      零基础学Python
+mrhy2                  41.86     杨某某      零基础学Python
+mrhy3                  48.86     刘某某      零基础学Python
+mrhy4                  48.86     张某某      零基础学Python
+mrhy5                  48.86     赵某某  C#项目开发实战入门
+   mrhy1  41.86  周某某      零基础学Python
+0  mrhy2  41.86  杨某某      零基础学Python
+1  mrhy3  48.86  刘某某      零基础学Python
+2  mrhy4  48.86  张某某      零基础学Python
+3  mrhy5  48.86  赵某某  C#项目开发实战入门
+4  mrhy6  48.86  李某某  C#项目开发实战入门
+            0                 1           2               3
+0  买家会员名  买家实际支付金额  收货人姓名        宝贝标题
+1       mrhy1             41.86      周某某  零基础学Python
+2       mrhy2             41.86      杨某某  零基础学Python
+3       mrhy3             48.86      刘某某  零基础学Python
+4       mrhy4             48.86      张某某  零基础学Python
+0     买家会员名
+1          mrhy1
+2          mrhy2
+3          mrhy3
+4          mrhy4
+5          mrhy5
+6          mrhy6
+7          mrhy7
+8          mrhy8
+9          mrhy9
+10        mrhy10
+11        mrhy11
+12        mrhy12
+13        mrhy13
+14        mrhy14
+15        mrhy15
+16        mrhy16
+17        mrhy17
+18        mrhy18
+19        mrhy19
+20        mrhy20
+21        mrhy21
+22        mrhy22
+23        mrhy23
+24        mrhy24
+25        mrhy25
+26        mrhy26
+27        mrhy27
+28        mrhy28
+29        mrhy29
+30        mrhy30
+31        mrhy31
+32        mrhy32
+33        mrhy33
+34        mrhy34
+35        mrhy35
+36        mrhy36
+37        mrhy37
+38        mrhy38
+39        mrhy39
+40        mrhy40
+41        mrhy41
+42        mrhy42
+43        mrhy43
+44        mrhy44
+45        mrhy45
+46        mrhy46
+47        mrhy47
+48        mrhy48
+49        mrhy49
+50        mrhy50
+Name: 0, dtype: object
+买家实际支付金额             41.86
+收货人姓名                  周某某
+宝贝标题            零基础学Python
+Name: mrhy1, dtype: object
